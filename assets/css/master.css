@@ -1,0 +1,37 @@
+.abuelo{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  margin: 40px;
+}
+.papa{
+  width: 150px;
+  height: 150px;
+  top: 25%;
+  left: 25%;
+  position: absolute;
+}
+.hijo{
+  width: 75px;
+  height: 75px;
+}
+#morado{
+  background: #4B0F76;
+}
+#verde{
+  background: #83CB0C;
+}
+#rosa{
+  background: #F85492;
+    /*position: absolute;*/
+}
+#azul{
+  background: #1CB5D7;
+}
+#amarillo{
+  background: #F7DA09;
+}
+#naranja{
+  background: #FA8C0F;
+  /*position: relative;*/
+}
