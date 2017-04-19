@@ -1,3 +1,13 @@
+header{
+  background: #0DA0BE;
+  font-family: 'Pacifico', cursive;
+  color: #D2ECF1;
+  padding: 2px;
+  text-align: center;
+}
+#contenedor{
+    margin-left: 35%;
+}
 .abuelo{
   width: 300px;
   height: 300px;
